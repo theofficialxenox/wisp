@@ -1,0 +1,6 @@
+{
+  "name": "wisp",
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "@mercuryworkshop/wisp-js": "latest" }
+}
